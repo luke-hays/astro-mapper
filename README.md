@@ -1,6 +1,6 @@
 # Astro Mapper
 
-Astro Mapper is a tool for obtaining exposed sourcemaps in Astro codebases that are vulnerable as described in [CVE-2024-56159](https://www.cve.org/CVERecord?id=CVE-2024-56159).
+Astro Mapper is a tool for obtaining exposed sourcemaps containing server side code in Astro codebases. This vulnerablity is described in [CVE-2024-56159](https://www.cve.org/CVERecord?id=CVE-2024-56159).
 
 This tool is for educational purposes only.
 
