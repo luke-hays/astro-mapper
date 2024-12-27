@@ -1,7 +1,7 @@
 {
-  "name": "src-map-demo",
+  "name": "astro-mapper",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "astro-mapper.js",
   "scripts": {},
   "keywords": [],
   "author": "",
@@ -9,7 +9,6 @@
   "description": "",
   "type": "module",
   "devDependencies": {
-    "@playwright/test": "^1.49.1",
-    "@types/node": "^22.10.2"
+    "@playwright/test": "^1.49.1"
   }
 }
